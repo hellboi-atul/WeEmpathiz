@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Welcome To We Empathiz",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "At Wempathiz, we believe that everyone deserves a safe space to express their emotions. Our AI companions are here to listen, understand, and support you through your journey.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "We Empathiz Community",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
